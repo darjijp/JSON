@@ -1,11 +1,7 @@
-{
-  "posts": [
-    {
+[
+   {
       "id": ,
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ ]
+
